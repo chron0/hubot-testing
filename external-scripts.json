@@ -1,0 +1,18 @@
+[
+  "hubot-acl",
+  "hubot-auth",
+  "hubot-brain-inspect",
+  "hubot-business-cat",
+  "hubot-help",
+  "hubot-jenkins",
+  "hubot-leveldb-brain",
+  "hubot-plusplus",
+  "hubot-remind-at",
+  "hubot-react",
+  "hubot-rss-reader",
+  "hubot-rules",
+  "hubot-salt",
+  "hubot-sonarqube",
+  "hubot-tell",
+  "hubot-wit"
+]

@@ -1,0 +1,7 @@
+check process hobot with pidfile /var/run/hobot.pid
+   start program  "/etc/init.d/hobot start"
+   stop program  "/etc/init.d/hobot stop"
+   if failed url http://localhost:4711/hubot/monit
+      and content = "OK"
+      with timeout 2 seconds
+      then restart

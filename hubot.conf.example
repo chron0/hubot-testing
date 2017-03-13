@@ -1,0 +1,9 @@
+export HUBOT_ZABBIX_USER="username"
+export HUBOT_ZABBIX_PASSWORD="xxxxxxxx"
+export HUBOT_ZABBIX_ENDPOINT="https://my_zabbix_host/zabbix/"
+export HUBOT_ZABBIX_MIN_SEVERITY="warn"
+export HUBOT_ANNOUNCE_ROOMS="alerts"
+export HUBOT_SLACK_TOKEN=xxxx-0000000000-000000000000000000000000
+export HUBOT_SLACK_EXIT_ON_DISCONNECT="true"
+export HUBOT_AUTH_ADMIN="Uxxxxxxxx"
+export PORT="4711"
